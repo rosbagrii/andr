@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+#box {
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    background-color: yellow;
+    transform: rotate(45deg);
+    border-radius: 50%;
+}
